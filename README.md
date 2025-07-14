@@ -37,4 +37,4 @@ To further enhance this project, future iterations could explore:
 This project exemplifies the power of combining rigorous data preprocessing with advanced deep learning techniques to address pressing healthcare challenges. By achieving a high accuracy rate in diabetes prediction, it highlights the potential of machine learning to transform medical diagnostics. The work reflects a blend of technical expertise, analytical rigor, and a passion for leveraging AI to improve lives.
 
 ## Contact
-For inquiries or collaborations, feel free to reach out via [insert contact information or link to portfolio]. Contributions and feedback are always welcome!
+For inquiries or collaborations, feel free to reach out via E-mail : aamish23052003@gmail.com. Contributions and feedback are always welcome!
